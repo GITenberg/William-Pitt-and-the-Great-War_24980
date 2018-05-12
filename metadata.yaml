@@ -1,0 +1,35 @@
+_repo: William-Pitt-and-the-Great-War_24980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rose, J. Holland (John Holland)
+    alias: Rose, John Holland
+    birthdate: 1855
+    deathdate: 1942
+    gutenberg_agent_id: '5451'
+    url: http://www.gutenberg.org/2009/agents/5451
+    wikipedia: http://en.wikipedia.org/wiki/John_Holland_Rose
+description: In this 1911 publication, Rose provides a detailed history of the Anglo-French
+  wars that started in 1791. The text remained the standard work on the subject for
+  close to sixty years. In the book, Rose carefully sets forth the disputes with France,
+  the main episodes of the War, and the resulting political consequences. Still an
+  authoritative resource, William Pitt and the Great War is a balanced treatment of
+  this dramatic period in European history.
+gutenberg_issued: '2008-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Europe -- History -- 1789-1815'
+- !lcsh 'Great Britain -- History -- George III, 1760-1820'
+- !lcsh 'Pitt, William, 1759-1806'
+title: William Pitt and the Great War
+url: http://www.gutenberg.org/ebooks/24980
